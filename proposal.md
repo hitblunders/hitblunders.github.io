@@ -34,13 +34,13 @@ After installing Miniconda, I wanted to create a new environment just for Data A
 
 I have some experience as user well as contributor with **OpenFPGA framework**. It is the first open-source FPGA(Field Programmable Gate Analysis) IP generator supporting highly-customizable homogeneous FPGA architectures. OpenFPGA provides a full set of EDA support for customized FPGAs, including Verilog-to-bitstream generation and self-testing verification.
 
-While learning Object-oriented and functional programming style, I came to know about **OCaml Language**. OCaml is an industrial-strength programming language supporting functional, imperative and object-oriented styles. It was quite different from what I how already knew(Procedurial Programming), which is why it took me some time to appreciate and understand the concept. But at the same time it was quite easy to learn and understand unlike some other functional languages. Later I used Ocaml to develop a simple Program Analyzer.
+While learning Object-oriented and functional programming style, I came to know about **OCaml Language**. OCaml is an industrial-strength programming language supporting functional, imperative and object-oriented styles. It was quite different from what I how already knew(Procedural Programming), which is why it took me some time to appreciate and understand the concept. But at the same time it was quite easy to learn and understand unlike some other functional languages. Later I used Ocaml to develop a simple Program Analyzer.
 
 **SymPy** is another open-source application, which I have used while exploring Symbolic Mathematics in Python. SymPy is a Python library for Symbol Mathematics which aims to become a full-featured CAS(Computer Algebra System). In my Machine Learning projects, I have used SymPy for Algebraic Manipulations, Equation Solving and Calculas(Differentiation, Integration, Series Expansion etc.).
 
 # Relevant Projects
 
-As I mentioned previously, I have used conda-forge to build a robust environment for my Machine Learning, Data Analysis and Data Science projects(personal projects and college mini-project). Along with these projects, my university project **Design and Analysis of Algorithms** was developed in the same environment. I used conda-forge as primary channel for installing and updating some common and useful Python packages like numpy, scipy, pandas, scikit-learn and matplotlib(for visualization pursposes). I used Jupyter Notebook as my computational notebook and editor.
+As I mentioned previously, I have used conda-forge to build a robust environment for my Machine Learning, Data Analysis and Data Science projects(personal projects and college mini-project). Along with these projects, my university project **Design and Analysis of Algorithms** was developed in the same environment. I used conda-forge as primary channel for installing and updating some common and useful Python packages like numpy, scipy, pandas, scikit-learn and matplotlib(for visualization purspose). I used Jupyter Notebook as my computational notebook and editor.
 
 Few packages were not explicitly included in the list of packages to install, but they were dependencies of at least one of the packages in the list of packages to install and were installed along with other dependencies.
 
@@ -62,10 +62,10 @@ Documenting or improving documentation of any project, specially such a huge com
 
 Phase 2 - (June - August)
 
-I will be working full-time on my project for these three months. I will actively participate in the open-source development process and write blog entries. Few tasks I am intersted to perform during the intership period:
+I will be working full-time on my project for these three months. I will actively participate in the open-source development process and write blog entries. Few tasks I am interested to perform during the intership period:
 
 1. Writing a complete guide containing the actual steps and standard model for a package recipe, building process (just a simple discussion) and how conda-forge bot recognize defective licenses, recipes and packages in general.
 2. Documenting any project(like auto-tick bot).
 3. Including bug solutions and helpful ideas appeared in Gitter channel or github repositories and improve documentation.
 
-I am open to learn about and work on any task according to the demand of the project and internship. The tasks mentioned above are simply example of the type of tasks I am intersted to perform.
+I am open to learn about and work on any task according to the demand of the project and internship. The tasks mentioned above are simply example of the type of tasks I am interested to perform.
