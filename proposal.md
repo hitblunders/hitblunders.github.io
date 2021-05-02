@@ -22,11 +22,7 @@ Currently I am a sophomore at IIEST Shibpur, India. My area of interest lies in 
 
 # Past experience with conda-forge community
 
-<<<<<<< HEAD
-Conda-forge, an umbrella project of NumFOCUS, is a community effort that provides `conda` packages for a wide range of software. It is an amazing experience to get connected with such a community and working on such a huge project, in global setup.
-=======
 Conda-forge, an umbrella project of NumFOCUS, is a community effort that provides conda packages for a wide range of software. It is an amazing experience to get connected with such a community and contributing to such a huge project.
->>>>>>> 2a16f94f047fcee2dc6bbfbac9982cd249034ae0
 
 **Experience as an user:** For the first time I came to know about conda-forge when I started to set up my system to do Data Science works in Python. Previously I used to use package manager `pip`, which is the default package manger for new Python installations. I was suggested by my mentor to use `conda` instead of `pip` as it contains more features and resolves dependencies better.
 
