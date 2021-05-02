@@ -36,7 +36,7 @@ I have some experience as user well as contributor with **OpenFPGA framework**. 
 
 While learning Object-oriented and functional programming style, I came to know about **OCaml Language**. OCaml is an industrial-strength programming language supporting functional, imperative and object-oriented styles. It was quite different from what I how already knew(Procedurial Programming), which is why it took me some time to appreciate and understand the concept. But at the same time it was quite easy to learn and understand unlike some other functional languages. Later I used Ocaml to develop a simple Program Analyzer.
 
-SymPy is another open-source application, which I have used while exploring Symbolic Mathematics in Python. SymPy is a Python library for Symbol Mathematics which aims to become a full-featured CAS(Computer Algebra System). In my Machine Learning projects, I have used SymPy for Algebraic Manipulations, Equation Solving and Calculas(Differentiation, Integration, Series Expansion etc.).
+**SymPy** is another open-source application, which I have used while exploring Symbolic Mathematics in Python. SymPy is a Python library for Symbol Mathematics which aims to become a full-featured CAS(Computer Algebra System). In my Machine Learning projects, I have used SymPy for Algebraic Manipulations, Equation Solving and Calculas(Differentiation, Integration, Series Expansion etc.).
 
 # Relevant Projects
 
