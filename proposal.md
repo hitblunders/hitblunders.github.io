@@ -50,7 +50,7 @@ The best thing about using conda-forge was that the core developer team takes ca
 
 # My vision of conda-forge
 
-Though I am still exploring this project, I think one thing we can do to enhance the documentation is to improve the FAQ and glossary section. Beginners may often face technical issues when using conda-forge and feel lost. We may keep track about what all doubts are being asked in the Gitter channel and what are the solutions suggested by community members. These may be included in the FAQ section in question-answer format. Also, many additional information we can find in the discussions in the channel, which are not already included in docs. Mentioning these informations and keeping updating the docs seems to be very much important to me.
+Though I am still exploring this project, I think one thing we can do to enhance the documentation is to improve the FAQ and glossary section. Beginners may often face technical issues when using conda-forge and feel lost. We may keep track about what all doubts are being asked in the Gitter channel and what are the solutions suggested by community members. These may be included in the FAQ section in question-answer format. Also, many additional information we can find in the discussions in the channel, which are not already included in docs. Mentioning these information and keeping updating the docs seems to be very much important to me.
 
 Also, I feel there should be a complete guide containing the actual steps and standard model for a package recipe. This will be very helpful for beginners.
 
